@@ -11,14 +11,11 @@ Install the required Python packages using pip:
    pip install -r requirements.txt
    ```
 
-The map will showcase each constituency with the respective winning candidate's information, allowing you to explore the data interactively.
-
-## Contributing
-
-Contributions to this project are welcome! If you'd like to enhance the functionality, improve the visualization, or fix any issues, feel free to submit a pull request.
-
 ## Acknowledgements
 
 - Candidates' data sourced from [myneta.info](https://myneta.info/).
 - Constituency coordinates sourced from [Wikipedia](https://en.wikipedia.org/)
 - [Pydeck library](https://deckgl.readthedocs.io/en/latest/index.html) for interactive map visualization.
+
+## Note
+Please note that the data used in this project has been scraped from the myneta.info website  and wikipedia. While efforts have been made to ensure accuracy, discrepancies or inaccuracies might still exist. For authoritative and exact information, please confirm from the official sources.
