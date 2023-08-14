@@ -8,7 +8,7 @@ This project aims to visualize the winners of the 2019 Lok Sabha elections on a 
 Install the required Python packages using pip:
 
    ```bash
-   pip install -r requirements.txt
+   python3 -m pip install -r requirements.txt
    ```
 
 ## Acknowledgements
