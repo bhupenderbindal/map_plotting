@@ -1,6 +1,6 @@
 # An interactive plot of Lok Sabha Elections 2019 Winners on a map
 
-This project aims to visualize the winners of the 2019 Lok Sabha elections on a map. The project utilizes the Pydeck library to create an interactive map. The map will showcase each constituency with the respective winning candidate's information, allowing you to explore the data interactively.
+This project aims to visualize the [winners of the 2019 Lok Sabha elections on a map](https://bhupenderbindal.github.io/projects/1_project/). The project utilizes the Pydeck library to create an interactive map. The map will showcase each constituency with the respective winning candidate's information, allowing you to explore the data interactively.
 
 
 ## Requirements
